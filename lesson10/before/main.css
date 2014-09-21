@@ -1,0 +1,11 @@
+table{
+	border:solid 1px orange; 
+	border-spacing:0px;
+}
+th,td{
+	border:solid 1px orange; 
+	padding:4px;
+}
+h2{
+	color: blue;
+}

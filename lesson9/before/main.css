@@ -1,0 +1,24 @@
+table{
+	border:solid 1px orange; 
+	border-spacing:0px;
+}
+th,td{
+	border:solid 1px orange; 
+	padding:4px;
+}
+.nostock{
+	color: red; 
+	font-weight: bold;
+}
+.blueback{
+	background: blue;
+	text-align: center;
+}
+.redback{
+	background: red;
+	text-align: center;
+}
+.greenback{
+	background: green;
+	text-align: center;
+}
